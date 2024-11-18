@@ -1,0 +1,115 @@
+2024-11-06 01:52:34 [main] INFO  newyeargiftapp.Main - Програма запущена
+2024-11-06 01:52:34 [main] ERROR newyeargiftapp.Main - Сталася критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at newyeargiftapp.Main.xui(Main.java:71) [classes/:?]
+	at newyeargiftapp.Main.main(Main.java:32) [classes/:?]
+2024-11-06 01:53:47 [main] INFO  newyeargiftapp.Main - Програма запущена
+2024-11-06 01:53:47 [main] ERROR newyeargiftapp.Main - Сталася критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at newyeargiftapp.Main.xui(Main.java:71) [classes/:?]
+	at newyeargiftapp.Main.main(Main.java:32) [classes/:?]
+2024-11-06 02:02:14 [main] INFO  newyeargiftapp.Main - Програма запущена
+2024-11-06 02:02:14 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:02:14 [main] ERROR newyeargiftapp.Main - Сталася критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at newyeargiftapp.Main.perevirka(Main.java:75) [classes/:?]
+	at newyeargiftapp.Main.main(Main.java:35) [classes/:?]
+2024-11-06 02:02:54 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 1
+2024-11-06 02:02:54 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:02:54 [main] ERROR newyeargiftapp.Main - Сталася критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at newyeargiftapp.Main.perevirka(Main.java:75) [classes/:?]
+	at newyeargiftapp.Main.main(Main.java:35) [classes/:?]
+2024-11-06 02:07:07 [main] INFO  newyeargiftapp.Main - Програма запущена
+2024-11-06 02:07:07 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:07:44 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 1
+2024-11-06 02:07:44 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:07:51 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 2
+2024-11-06 02:07:51 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:07:54 [main] WARN  newyeargiftapp.Main - Невірна опція вибрана: 9
+2024-11-06 02:07:54 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:08:06 [main] ERROR newyeargiftapp.commands.TriggerErrorCommand - Сталася критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at newyeargiftapp.commands.TriggerErrorCommand.execute(TriggerErrorCommand.java:13) [classes/:?]
+	at newyeargiftapp.menu.Menu.selectOption(Menu.java:14) [classes/:?]
+	at newyeargiftapp.Main.main(Main.java:44) [classes/:?]
+2024-11-06 02:08:14 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 8
+2024-11-06 02:08:23 [main] INFO  newyeargiftapp.Main - Програма запущена
+2024-11-06 02:08:23 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:08:25 [main] WARN  newyeargiftapp.Main - Невірна опція вибрана: 9
+2024-11-06 02:08:25 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:08:30 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 1
+2024-11-06 02:08:30 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:08:35 [main] WARN  newyeargiftapp.Main - Невірна опція вибрана: 9
+2024-11-06 02:08:35 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:08:36 [main] WARN  newyeargiftapp.Main - Невірна опція вибрана: 9
+2024-11-06 02:08:36 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:08:36 [main] WARN  newyeargiftapp.Main - Невірна опція вибрана: 9
+2024-11-06 02:08:36 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:08:37 [main] WARN  newyeargiftapp.Main - Невірна опція вибрана: 9
+2024-11-06 02:08:37 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:08:37 [main] WARN  newyeargiftapp.Main - Невірна опція вибрана: 9
+2024-11-06 02:08:37 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:08:39 [main] ERROR newyeargiftapp.commands.TriggerErrorCommand - Сталася критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at newyeargiftapp.commands.TriggerErrorCommand.execute(TriggerErrorCommand.java:13) [classes/:?]
+	at newyeargiftapp.menu.Menu.selectOption(Menu.java:14) [classes/:?]
+	at newyeargiftapp.Main.main(Main.java:44) [classes/:?]
+2024-11-06 02:08:47 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 8
+2024-11-06 02:09:49 [main] INFO  newyeargiftapp.Main - Програма запущена
+2024-11-06 02:09:49 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:09:52 [main] WARN  newyeargiftapp.Main - Невірна опція вибрана: 9
+2024-11-06 02:10:01 [main] INFO  newyeargiftapp.Main - Програма запущена
+2024-11-06 02:10:01 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:10:17 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 1
+2024-11-06 02:10:17 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:10:20 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 1
+2024-11-06 02:10:20 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:10:25 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 2
+2024-11-06 02:10:25 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:10:28 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 3
+2024-11-06 02:10:28 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:10:31 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 4
+2024-11-06 02:10:31 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:10:38 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 6
+2024-11-06 02:10:38 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:10:40 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 7
+2024-11-06 02:10:40 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:10:42 [main] ERROR newyeargiftapp.commands.TriggerErrorCommand - Сталася критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at newyeargiftapp.commands.TriggerErrorCommand.execute(TriggerErrorCommand.java:13) [classes/:?]
+	at newyeargiftapp.menu.Menu.selectOption(Menu.java:14) [classes/:?]
+	at newyeargiftapp.Main.main(Main.java:44) [classes/:?]
+2024-11-06 02:10:49 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 8
+2024-11-06 02:10:49 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:10:51 [main] WARN  newyeargiftapp.Main - Невірна опція вибрана: 9
+2024-11-06 02:11:42 [main] INFO  newyeargiftapp.Main - Програма запущена
+2024-11-06 02:11:42 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-06 02:11:44 [main] WARN  newyeargiftapp.Main - Невірна опція вибрана: 11
+2024-11-06 02:11:44 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-09 10:42:01 [main] INFO  newyeargiftapp.Main - Програма запущена
+2024-11-09 10:42:01 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-09 10:42:16 [main] WARN  newyeargiftapp.Main - Невірна опція вибрана: 11
+2024-11-09 10:42:16 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-09 10:42:17 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 2
+2024-11-09 10:42:17 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-09 10:42:20 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 3
+2024-11-09 10:42:20 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-09 10:42:22 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 1
+2024-11-09 10:42:22 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-09 10:42:25 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 5
+2024-11-09 10:42:25 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-09 10:42:28 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 3
+2024-11-09 10:42:28 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-09 10:42:28 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 4
+2024-11-09 10:42:28 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-09 10:42:37 [main] WARN  newyeargiftapp.Main - Невірна опція вибрана: 10
+2024-11-09 10:42:37 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-09 10:42:41 [main] ERROR newyeargiftapp.commands.TriggerErrorCommand - Сталася критична помилка: / by zero
+java.lang.ArithmeticException: / by zero
+	at newyeargiftapp.commands.TriggerErrorCommand.execute(TriggerErrorCommand.java:13) [classes/:?]
+	at newyeargiftapp.menu.Menu.selectOption(Menu.java:14) [classes/:?]
+	at newyeargiftapp.Main.main(Main.java:44) [classes/:?]
+2024-11-09 10:42:45 [main] INFO  newyeargiftapp.Main - Користувач обрав опцію: 8
+2024-11-09 10:42:45 [main] INFO  newyeargiftapp.Main - Меню відображено користувачу
+2024-11-09 10:43:22 [main] WARN  newyeargiftapp.Main - Невірна опція вибрана: 9
